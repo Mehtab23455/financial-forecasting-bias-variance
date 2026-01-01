@@ -1,4 +1,4 @@
-# Project 2: Bias–Variance Tradeoff in Financial Forecasting
+#  Bias–Variance Tradeoff in Financial Forecasting
 
 ## Research Objective
 To investigate why traditional forecasting models fail in financial time series and analyze this failure through the bias–variance tradeoff.
@@ -13,3 +13,8 @@ To investigate why traditional forecasting models fail in financial time series 
 - Increased complexity reduces bias but increases variance
 - Financial returns exhibit low signal-to-noise ratios
 - Predictability is structurally limited
+
+
+## Relation to Other Work
+This project is part of a broader study on financial time series behavior.
+A complementary project analyzes the limitations of forecasting models and the bias–variance tradeoff.
